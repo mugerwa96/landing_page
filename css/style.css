@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary:rgb(172, 13, 13);
+}
+.btn-primary{
+    background: var(--primary)!important;
+    border: none    ;
+}
+.nav-link{
+    font-weight:500!important;
+    
+}
+/* -------------------hero section------------------ */
+.carousel-item .img{
+    width: 100%!important;
+    height: 20rem!important;
+ 
+}
+
+/* -------------------hero section------------------ */
